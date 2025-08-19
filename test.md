@@ -29,7 +29,8 @@ output: test-cleaver.html
 --
 
 <div align="center">
-  <img src="./img/file.jpg" style="position: relative; top: -100px;/>
+  <img src="./img/file.jpg" style="position: relative; top: -100px;"/> 
+
 </div>
 
 
